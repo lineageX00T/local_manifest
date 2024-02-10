@@ -67,7 +67,7 @@
 
         <!-- Updater -->
         <remove-project name="LineageOS/android_packages_apps_Updater" />
-        <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="lineageX00T" revision="main" />
+        <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="lineageX00T" revision="lineage-17.1" />
 
         <!-- Vendor -->
         <remove-project name="LineageOS/android_vendor_lineage" />
