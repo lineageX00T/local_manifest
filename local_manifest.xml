@@ -2,8 +2,8 @@
 
 <manifest>
 
-        <remote name="lineageX00T"
-        fetch="https://github.com/lineageX00T" />
+        <!-- remote name="lineageX00T"
+        fetch="https://github.com/lineageX00T" /-->
 
         <remote name="Tiktodz"
         fetch="https://github.com/Tiktodz" />
