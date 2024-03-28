@@ -8,18 +8,6 @@
         <remote name="Tiktodz"
         fetch="https://github.com/Tiktodz" />
 
-        <!-- remote name="strongreasons"
-        fetch="https://github.com/strongreasons" /-->
-
-        <remote name="pixelexperience"
-        fetch="https://github.com/pixelexperience" />
-
-        <remote name="rr"
-        fetch="https://gitlab.com/rr-os" />
-
-        <remote name="gitlab"
-        fetch="https://gitlab.com" />
-
         <!-- Sync trees -->
         <project path="device/asus/X00T" name="device_asus_X00T" remote="Tiktodz" revision="lineage-17.1" />
         <project path="vendor/asus" name="vendor_asus" remote="Tiktodz" revision="lineage-17.1" />
