@@ -25,7 +25,7 @@
         <project path="vendor/asus" name="android_vendor_asus" remote="lineageX00T" revision="lineage-17.1" />
 
         <!-- Audio -->
-        <remove-project name="LineageOS/android_hardware_qcom_audio" />
+        <remove-project name="LineageOS-Revived/android_hardware_qcom_audio" />
         <project path="hardware/qcom-caf/msm8998/audio" name="hardware_qcom-caf_msm8998_audio" remote="lineageX00T" revision="lineage-17.1" />
 
 </manifest>
