@@ -4,12 +4,12 @@
 
         <remote name="Tiktodz"
         fetch="https://github.com/Tiktodz" />
-        <remote name="crd"
-        fetch="https://github.com/crdroidandroid" />
+        <!-- remote name="crd"
+        fetch="https://github.com/crdroidandroid" /-->
 
         <!-- Sync trees -->
-        <project path="device/asus/X00T" name="device_asus_X00T" remote="Tiktodz" revision="13/hmp" />
-        <project path="kernel/asus/sdm660" name="android_kernel_asus_sdm660" remote="crd" revision="lineage-19.0" />
-        <project path="vendor/asus" name="vendor_asus" remote="Tiktodz" revision="13-hmp" />
+        <project path="device/asus/X00T" name="android_device_asus_X00TD-4.19" remote="Tiktodz" revision="lineage-21.0" />
+        <!-- project path="kernel/asus/sdm660" name="android_kernel_asus_sdm660" remote="crd" revision="lineage-19.0" />
+        <project path="vendor/asus" name="vendor_asus" remote="Tiktodz" revision="13-hmp" /-->
 
 </manifest>
